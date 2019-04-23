@@ -1,1 +1,1 @@
-WebApplication
+# AspNet Core Web Application Example
